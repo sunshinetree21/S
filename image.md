@@ -4,4 +4,5 @@
 
 ![sentence_vectorize](https://github.com/sunshinetree21/Study_Machine_Learning/assets/162138440/4cca5ed7-c305-4faa-8a71-db0a8a646ee8)
 
+![PCA](https://github.com/sunshinetree21/Study_Machine_Learning/assets/162138440/ea5da6b2-1db2-4ace-8962-2a32c97e64af)
 
